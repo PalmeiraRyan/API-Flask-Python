@@ -1,0 +1,59 @@
+{
+    "_default": {
+        "1": {
+            "id": 1,
+            "nome": "Rick",
+            "status": "vivo",
+            "species": "humano",
+            "gender": "masculino",
+            "origin": "Terra",
+            "location": "lua",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/personagens/1"
+        },
+        "2": {
+            "id": 2,
+            "nome": "Ryan",
+            "status": "vivo",
+            "species": "humano",
+            "gender": "masculino",
+            "origin": "Terra",
+            "location": "marte",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/personagens/2"
+        },
+        "4": {
+            "id": 3,
+            "nome": "Catharina",
+            "status": "vivo",
+            "species": "humano",
+            "gender": "femia",
+            "origin": "sol",
+            "location": "sol",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/personagens/4"
+        },
+        "5": {
+            "id": 4,
+            "nome": "Douglas",
+            "status": "morto",
+            "species": "indio",
+            "gender": "masculino",
+            "origin": "Galaxia andor",
+            "location": "terra",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/personagens/4"
+        },
+        "6": {
+            "id": 5,
+            "nome": "marcela",
+            "status": "viva",
+            "species": "indio",
+            "gender": "femea",
+            "origin": " lua",
+            "location": "terra",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/personagens/5"
+        }
+    }
+}

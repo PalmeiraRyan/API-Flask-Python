@@ -1,0 +1,60 @@
+{
+    "_default": {
+        "1": {
+            "id": 1,
+            "nome": "marte",
+            "dimension": "nossa dimensao",
+            "residents": "humanos e animais",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/local/1"
+        },
+        "2": {
+            "id": 2,
+            "nome": "terra",
+            "dimension": "uninformed ",
+            "residents": "uninformed",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/local/2"
+        },
+        "3": {
+            "id": 3,
+            "nome": "lua",
+            "dimension": "Dimensao X",
+            "residents": "lunaticos",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/local/3"
+        },
+        "4": {
+            "id": 4,
+            "nome": "mercurio",
+            "dimension": "dimensao 8",
+            "residents": "cachorros mercurianos",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/local/4"
+        },
+        "5": {
+            "id": 5,
+            "nome": "sol",
+            "dimension": "uninformed ",
+            "residents": "uninformed",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/local/5"
+        },
+        "6": {
+            "id": 6,
+            "nome": "galaxia andor",
+            "dimension": "uninformed ",
+            "residents": "uninformed",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/local/6"
+        },
+        "7": {
+            "id": 7,
+            "nome": " lua",
+            "dimension": "uninformed ",
+            "residents": "uninformed",
+            "created": "2023-02-14",
+            "url": "http://localhost:5000/local/7"
+        }
+    }
+}
